@@ -1,2 +1,2 @@
 # scrum
-aula 3 - Full Stack 
+aula 3 - **Full Stack** 
